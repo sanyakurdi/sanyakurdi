@@ -1,24 +1,50 @@
 ## Hi there 👋 I am sanyakurdi ✨
-- 🔭 I’m currently working on totally nothing
-- 🌱 I’m currently learning totally nothing
-- 👯 I’m looking to collaborate on totally nothing
-- 🤔 I’m looking for help with totally nothing
-- 💬 Ask me about something
-- 📫 How to reach me: nahh
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: fact fun
 
-<!--
-**sanyakurdi/sanyakurdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your Image](https://sun9-54.userapi.com/impg/ih5nnWSVhKnOQd9_PI738r18KVaNtgn-AMutBQ/HQ94Ph5bF-c.jpg?size=1080x916&quality=95&sign=859479f313757557aba608838a2181ed&type=album) <!-- Замените на ссылку на ваше фото или аватарку -->
 
-Here are some ideas to get you started:
+### Обо мне:
+- 🔭 **Сейчас работаю над:** totally nothing
+- 🌱 **Сейчас изучаю:** totally nothing
+- 👯 **Хочу сотрудничать:** totally nothing
+- 🤔 **Ищу помощь с:** totally nothing
+- 💬 **Спросите меня о:** something
+- 📫 **Как связаться:** nahh
+- 😄 **Местоимения:** he/him
+- ⚡ **Интересный факт:** fact fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технологии и языки:
+- **Языки программирования:** C++, C#, Python
+- **Разработка интерфейсов:** WPF, Windows Forms
+- **Другие навыки:** Git, SQL, ООП, алгоритмы и структуры данных
+- **Инструменты:** Visual Studio, JetBrains Rider, PyCharm
+
+---
+
+### 🚀 Что я разрабатываю:
+- **Десктопные приложения** на C# с использованием WPF и Windows Forms.
+- **Консольные утилиты** на C++ и Python для автоматизации задач.
+- **Небольшие игры** или графические проекты на C++.
+
+---
+
+### 📊 Статистика GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanyakurdi&show_icons=true&theme=radical) <!-- Замените sanyakurdi на ваш GitHub username -->
+
+---
+
+### 📫 Как связаться:
+- **Telegram:** (https://t.me/)
+- **Email:** ваш.email@example.com
+- **GitHub:** [sanyakurdi](https://github.com/sanyakurdi) <!-- Замените на ваш GitHub -->
+
+---
+
+### 💡 Вдохновляющая цитата:
+> "Код — это поэзия, которая оживает." – Анонимный программист
+
+---
+
+![Footer](https://sun9-77.userapi.com/impg/fY0hn0V_6QGMItV-Jo_bHUSFcOfNpavpHUY0JQ/UDeKp3i8-T0.jpg?size=735x476&quality=95&sign=8c3ab270ef3d99da4043e3d38165646a&type=album) <!-- Замените на красивый футер или уберите -->
